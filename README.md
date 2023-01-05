@@ -1,0 +1,2 @@
+# Prolog
+Bahasa pemrograman Prolog
